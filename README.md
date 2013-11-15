@@ -1,4 +1,4 @@
-# Angular Tunes: An AngularJS demo
+# Songular: An AngularJS demo
 
 - Displays a list of available albums and their tracks
 - Allows queueing albums for playback
