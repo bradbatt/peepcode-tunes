@@ -1,4 +1,3 @@
-# <del>Backbone Tunes: A backbone.js demo</del>
 # Angular Tunes: An AngularJS demo
 
 - Displays a list of available albums and their tracks
